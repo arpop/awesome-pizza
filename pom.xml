@@ -11,7 +11,7 @@
 	<groupId>awesomepizza</groupId>
 	<artifactId>order-management-soa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>order-management-soa</name>
 	<description>Services for the management of orders in a pizzeria</description>
 	<properties>
